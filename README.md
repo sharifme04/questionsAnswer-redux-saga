@@ -24,6 +24,7 @@ At the end of the question you will  see the submit button but it will not be ac
 After submit, you will see the result.
 Additionally, you will also find a back button to go back to the home screen.
 If you reload the result page you will see a text message to answer the questions again instead of result.
+Also you will find amount property win the app.js file where you could change your amount. Right now amount is 10.
 
 N:B: Here I have spent more time than you mentioned. It is not for a particular point, it was overall (codes structure, snapshot testing, and tricky challenge).
 

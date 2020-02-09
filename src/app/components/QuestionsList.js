@@ -63,7 +63,7 @@ const QuestionsList = props => {
           ) : (
             <h5> Questions are not available</h5>
           )}
-          <div className="mt-3 mb-4">
+          <div className="col-xs-12 col-sm-12 col-md-12 mt-3 mb-4 text-center">
             <hr />
             {totalQuestions && (
               <Link to="/results">
