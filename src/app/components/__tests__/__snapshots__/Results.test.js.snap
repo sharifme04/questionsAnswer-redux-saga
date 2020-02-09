@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Results /> render 1`] = `
+<div>
+  <h2>
+    Results
+  </h2>
+  <hr />
+  <div
+    className="card text-center"
+  >
+    <div
+      className="card-header"
+    >
+      Your Score
+    </div>
+    <div
+      className="card-body"
+    >
+      <div>
+        <h3
+          className="card-title"
+        >
+          0
+          /
+          1
+        </h3>
+        <p
+          className="card-text mb-4"
+        >
+          Congratulation!!!!
+        </p>
+      </div>
+      <button
+        className="btn btn-primary"
+        onClick={[Function]}
+        type="button"
+      >
+        Back
+      </button>
+    </div>
+    <div
+      className="card-footer text-muted"
+    >
+      Deevio GmbH
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Results /> return the default when there is no data to map through 1`] = `
+<div>
+  <h2>
+    Results
+  </h2>
+  <hr />
+  <div
+    className="card text-center"
+  >
+    <div
+      className="card-header"
+    >
+      Your Score
+    </div>
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        You did not select any answer. Please Go back and answer all questions
+      </h5>
+      <button
+        className="btn btn-primary"
+        onClick={[Function]}
+        type="button"
+      >
+        Back
+      </button>
+    </div>
+    <div
+      className="card-footer text-muted"
+    >
+      Deevio GmbH
+    </div>
+  </div>
+</div>
+`;

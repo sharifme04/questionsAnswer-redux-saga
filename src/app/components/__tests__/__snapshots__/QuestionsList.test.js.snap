@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<QuestionsList /> renders 1`] = `
+<div
+  className="mt-1"
+>
+  <h2>
+    Deevio questions app
+  </h2>
+  <hr />
+  <div
+    className="row justify-content-center"
+  >
+    <div
+      className="col-xs-12 col-sm-12 col-md-6 mt-2"
+      key="1"
+    >
+      <div
+        className="card"
+      >
+        <div
+          className="card-body"
+        >
+          <p
+            className="card-title"
+          >
+            <b>
+              Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?
+            </b>
+          </p>
+          <p
+            className="card-text text-center custom-answer
+                        "
+            key="1"
+            onClick={[Function]}
+          >
+            Harrison Ford
+          </p>
+          <p
+            className="card-text text-center custom-answer
+                        "
+            key="1"
+            onClick={[Function]}
+          >
+            Harvey Keitel
+          </p>
+          <p
+            className="card-text text-center custom-answer
+                        "
+            key="1"
+            onClick={[Function]}
+          >
+            Martin Landau
+          </p>
+          <p
+            className="card-text text-center custom-answer
+                        "
+            key="1"
+            onClick={[Function]}
+          >
+            Tommy Lee Jones
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="mt-3 mb-4"
+    >
+      <hr />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<QuestionsList /> return the default array when there is no data to map through 1`] = `
+<div
+  className="mt-1"
+>
+  <h2>
+    Deevio questions app
+  </h2>
+  <hr />
+  <div
+    className="row justify-content-center"
+  >
+    <h5>
+       Questions are not available
+    </h5>
+    <div
+      className="mt-3 mb-4"
+    >
+      <hr />
+    </div>
+  </div>
+</div>
+`;

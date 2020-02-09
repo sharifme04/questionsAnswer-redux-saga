@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot data renders 1`] = `
+<div
+  className="container-fluid mt-1"
+>
+  <div
+    className="mt-1"
+  >
+    <h2>
+      Deevio questions app
+    </h2>
+    <hr />
+    <div
+      className="row justify-content-center"
+    >
+      <h5>
+         Questions are not available
+      </h5>
+      <div
+        className="mt-3 mb-4"
+      >
+        <hr />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`snapshot renders 1`] = `
+<div
+  className="container-fluid mt-1"
+>
+  <div
+    className="mt-1"
+  >
+    <h2>
+      Deevio questions app
+    </h2>
+    <hr />
+    <div
+      className="row justify-content-center"
+    >
+      <h5>
+         Questions are not available
+      </h5>
+      <div
+        className="mt-3 mb-4"
+      >
+        <hr />
+      </div>
+    </div>
+  </div>
+</div>
+`;
