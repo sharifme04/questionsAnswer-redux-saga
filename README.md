@@ -18,8 +18,6 @@ For unit test/snapshot test:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Additionally I have added Loading spinner.
-
 Technologies : React, react hooks, redux , redux-saga, axios, jest and enzyme.
 ---
 Please see the `screenshot` to see the view
